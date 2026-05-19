@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/embed.html</loc>
-    <lastmod>2026-03-27T14:30:40.069Z</lastmod>
-  </url>
-  <url>
     <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/code.html</loc>
-    <lastmod>2026-03-27T14:30:40.069Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/index.html</loc>
-    <lastmod>2026-03-27T14:30:40.069Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/frontmatter.html</loc>
-    <lastmod>2026-03-27T14:30:40.069Z</lastmod>
+    <lastmod>2026-05-19T11:18:03.585Z</lastmod>
   </url>
   <url>
     <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/markdown.html</loc>
-    <lastmod>2026-03-27T14:30:40.069Z</lastmod>
+    <lastmod>2026-05-19T11:18:03.586Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pythonhealthdatascience.github.io/quarto-template/index.html</loc>
+    <lastmod>2026-05-19T11:18:03.585Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/embed.html</loc>
+    <lastmod>2026-05-19T11:18:03.586Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/frontmatter.html</loc>
+    <lastmod>2026-05-19T11:18:03.586Z</lastmod>
   </url>
 </urlset>

@@ -1,16 +1,5 @@
 [
   {
-    "objectID": "pages/embed.html",
-    "href": "pages/embed.html",
-    "title": "Embed",
-    "section": "",
-    "text": "Videos embedded\nWebsites embedded\nPDF embedded",
-    "crumbs": [
-      "GitHub",
-      "Embed"
-    ]
-  },
-  {
     "objectID": "pages/code.html",
     "href": "pages/code.html",
     "title": "Code",
@@ -19,6 +8,17 @@
     "crumbs": [
       "GitHub",
       "Code"
+    ]
+  },
+  {
+    "objectID": "pages/markdown.html",
+    "href": "pages/markdown.html",
+    "title": "Markdown",
+    "section": "",
+    "text": "headers bold italics images tables Callouts Collapsible callouts Cross referencing Mermaid diagrams? (no?)",
+    "crumbs": [
+      "GitHub",
+      "Markdown"
     ]
   },
   {
@@ -33,14 +33,14 @@
     ]
   },
   {
-    "objectID": "pages/markdown.html",
-    "href": "pages/markdown.html",
-    "title": "Markdown",
+    "objectID": "pages/embed.html",
+    "href": "pages/embed.html",
+    "title": "Embed",
     "section": "",
-    "text": "headers bold italics images tables Callouts Collapsible callouts Cross referencing Mermaid diagrams? (no?)",
+    "text": "Videos embedded\nWebsites embedded\nPDF embedded",
     "crumbs": [
       "GitHub",
-      "Markdown"
+      "Embed"
     ]
   }
 ]
