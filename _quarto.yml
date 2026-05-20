@@ -14,7 +14,8 @@ website:
       contents:
         - text: Overview
           href: index.qmd
-        - pages/markdown.qmd
-        - pages/frontmatter.qmd
-        - pages/embed.qmd
-        - pages/code.qmd
+        - pages/1_making_a_change.qmd
+        - pages/2_markdown_basics.qmd
+        - pages/3_quarto_features.qmd
+        - pages/4_images_videos_documents.qmd
+        - pages/5_inline_htmls.qmd

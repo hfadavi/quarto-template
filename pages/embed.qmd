@@ -1,7 +1,0 @@
----
-title: Embed
----
-
-* Videos embedded
-* Websites embedded
-* PDF embedded
