@@ -3,7 +3,6 @@ project:
 
 website:
   title: "Quarto Template"
-  favicon: images/exeter.png
   navbar:
     right:
       - icon: github
@@ -19,3 +18,7 @@ website:
         - pages/3_quarto_features.qmd
         - pages/4_images_videos_documents.qmd
         - pages/5_inline_html.qmd
+
+format:
+  html:
+    theme: default
