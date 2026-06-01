@@ -1,1 +1,1 @@
-Sitemap: https://pythonhealthdatascience.github.io/quarto-template/sitemap.xml
+Sitemap: https://hfadavi.github.io/quarto-template/sitemap.xml

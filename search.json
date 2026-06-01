@@ -9,5 +9,60 @@
       "GitHub",
       "Overview"
     ]
+  },
+  {
+    "objectID": "pages/4_images_videos_documents.html",
+    "href": "pages/4_images_videos_documents.html",
+    "title": "Exercise 4. Images, videos and documents",
+    "section": "",
+    "text": "Photograph of South Cloisters on St Lukes Campus",
+    "crumbs": [
+      "GitHub",
+      "Exercise 4. Images, videos and documents"
+    ]
+  },
+  {
+    "objectID": "pages/2_markdown_basics.html",
+    "href": "pages/2_markdown_basics.html",
+    "title": "Exercise 2. Markdown basics",
+    "section": "",
+    "text": "this whole sentence will be ** bullet point 1 bulet point 2 *bulet point 3\nThis is nested markdown This whole sentence will be in italics.\n\nFirst task\nFinished task\n\n\nThis is indented\n\n&lt;University of Exeter&gt;\nhttps://www.exeter.ac.uk/\nRun python script.py in your terminal.\nOpen analysis.qmd and edit the first section.\nRun python script.py in your terminal.\nOpen analysis.qmd and edit the first section.\n\n\n\nLetter\nNumber\n\n\n\n\nA\n1\n\n\nB\n2\n\n\nC\n3",
+    "crumbs": [
+      "GitHub",
+      "Exercise 2. Markdown basics"
+    ]
+  },
+  {
+    "objectID": "pages/2_markdown_basics.html#heading-2",
+    "href": "pages/2_markdown_basics.html#heading-2",
+    "title": "Exercise 2. Markdown basics",
+    "section": "",
+    "text": "this whole sentence will be ** bullet point 1 bulet point 2 *bulet point 3\nThis is nested markdown This whole sentence will be in italics.\n\nFirst task\nFinished task\n\n\nThis is indented\n\n&lt;University of Exeter&gt;\nhttps://www.exeter.ac.uk/\nRun python script.py in your terminal.\nOpen analysis.qmd and edit the first section.\nRun python script.py in your terminal.\nOpen analysis.qmd and edit the first section.\n\n\n\nLetter\nNumber\n\n\n\n\nA\n1\n\n\nB\n2\n\n\nC\n3",
+    "crumbs": [
+      "GitHub",
+      "Exercise 2. Markdown basics"
+    ]
+  },
+  {
+    "objectID": "pages/3_quarto_features.html",
+    "href": "pages/3_quarto_features.html",
+    "title": "Exercise 3. Quarto features",
+    "section": "",
+    "text": "Note\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a callout. You can use it to draw attention to important information.\n\n\n\n\n\n\n\n\nTip\n\n\n\nThis is a tip.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nThis is a warning.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThis is important information.\n\n\n\n\n\n\n\n\nCaution\n\n\n\nThis is a caution.\n\n\n\n\n\n\n\n\nTipHelpful tip\n\n\n\nRemember to save your file before you render.\n\n\n\n\n\n\n\n\nThis is a simple callout. :::::: {.callout-note appearance=“minimal”} This is a minimal callout.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nDefault callout with icon removed\n\n\n\n\n\n\nSouth Cloisters, University of Exeter, St Luke’s Campus, Heavitree Road, Exeter EX1 2LU\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe solution is \\(x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\\).",
+    "crumbs": [
+      "GitHub",
+      "Exercise 3. Quarto features"
+    ]
+  },
+  {
+    "objectID": "pages/1_making_a_change.html",
+    "href": "pages/1_making_a_change.html",
+    "title": "Exercise 1. Making a change",
+    "section": "",
+    "text": "This is a sentence This is a 2nd sentence",
+    "crumbs": [
+      "GitHub",
+      "Exercise 1. Making a change"
+    ]
   }
 ]
