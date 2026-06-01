@@ -1,3 +1,79 @@
 ---
 title: "Exercise 3. Quarto features"
 ---
+:::{.callout-note}:::
+::: {.callout-note}
+This is a callout.
+You can use it to draw attention to important information.
+:::
+::: {.callout-tip}
+This is a tip.
+:::
+::: {.callout-warning}
+This is a warning.
+:::
+::: {.callout-important}
+This is important information.
+:::
+::: {.callout-caution}
+This is a caution.
+:::
+::: {.callout-tip title="Helpful tip"}
+Remember to save your file before you render.
+:::
+::: {.callout-note appearance="simple"}
+This is a simple callout.
+:::::: {.callout-note appearance="minimal"}
+This is a minimal callout.
+:::
+::: {.callout-note icon="false"}
+Default callout with icon removed
+:::
+:::: {.columns}
+
+::: {.column}
+![](/images/south_cloisters.jpg){fig-alt="Photograph of South Cloisters"}
+:::
+
+::: {.column}
+**South Cloisters**, University of Exeter, St Luke's Campus, Heavitree Road, Exeter EX1 2LU
+:::
+
+::::
+:::: {.columns}
+
+::: {.column width=60%}
+:::
+
+::: {.column width=5%}
+:::
+
+::: {.column width=35%}
+:::
+
+:::::::: {.columns}
+
+::: {.column width=60%}
+:::
+
+::: {.column width=5%}
+:::
+
+::: {.column width=35%}
+:::
+
+::::
+:::: {.columns}
+
+::: {.column width=60%}
+:::
+
+::: {.column width=5%}
+:::
+
+::: {.column width=35%}
+:::
+
+::::
+
+The solution is $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$.

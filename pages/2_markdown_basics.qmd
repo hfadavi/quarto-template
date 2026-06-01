@@ -1,3 +1,48 @@
 ---
 title: "Exercise 2. Markdown basics"
+
 ---
+# heading 1
+
+
+## heading 2
+
+---
+***
+this whole sentence will be **
+*bullet point 1
+*bulet point 2
+*bulet point 3
+
+
+This is nested markdown 
+*This whole sentence will be in italics.*
+
+
+* [ ] First task
+* [x] Finished task
+
+> This is indented
+
+
+<[University of Exeter](https://www.exeter.ac.uk/)>
+
+<https://www.exeter.ac.uk/>
+
+
+
+Run `python script.py` in your terminal.
+
+Open `analysis.qmd` and edit the first section.
+
+Run `python script.py` in your terminal.
+
+Open `analysis.qmd` and edit the first section.
+
+
+| Letter | Number |
+| - | - |
+| A | 1 |
+| B | 2 |
+| C | 3 |
+

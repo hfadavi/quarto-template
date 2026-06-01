@@ -1,3 +1,21 @@
 ---
 title: "Exercise 4. Images, videos and documents"
 ---
+![](/images/exeter.jpg)
+
+![](/images/south_cloisters.jpg){fig-align="center"}
+
+![Photograph of South Cloisters on St Lukes Campus](/images/south_cloisters.jpg)
+
+
+{{< video https://youtu.be/BUN0sSa2e9c?si=-o7gu4FGOZS7L2rt >}}
+
+
+<iframe width="100%" height="500" src="https://quarto.org/" title="Quarto Documentation"></iframe>
+
+<embed src="example.pdf" width="100%" height="1000px" />
+
+
+
+
+
